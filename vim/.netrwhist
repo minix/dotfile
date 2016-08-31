@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Volumes/Mac/www/grid'
+let g:netrw_dirhist_2='/usr/local'
+let g:netrw_dirhist_3='/usr/local/Library'
+let g:netrw_dirhist_4='/usr/local/Library/Homebrew'
+let g:netrw_dirhist_5='/usr/local/Library/Homebrew/os'

@@ -1,0 +1,4 @@
+set hintchars=asdfhjkl
+set autocomplete=false
+set titlestring=""
+set gui=nonavigation
